@@ -1,7 +1,7 @@
 # landing_page_responsive
 No geral, este código HTML cria uma página da web para promover o evento "InDecor," fornecendo informações sobre o evento, benefícios, localização e detalhes, bem como a oportunidade de se inscrever. O design e o estilo da página são controlados por arquivos CSS externos e ícones da biblioteca Bootstrap.
 
-Readme - Página da Web "InDecor"
+Página da Web "InDecor"
 Este é um guia de README para a página da web "InDecor". Esta página foi criada para promover um evento chamado "InDecor," focado em decoração de interiores. Abaixo, você encontrará informações sobre a estrutura do código HTML, seus componentes principais e como ele pode ser usado e personalizado.
 
 Estrutura do Código HTML
