@@ -1,5 +1,6 @@
 # landing_page_responsive
 
+https://pedrolira11.github.io/landing_page_responsive/
 ![page responsive](https://github.com/PedroLira11/landing_page_responsive/assets/130400842/0fc9a241-4c98-4a57-b162-71ecb9c94671)
 
 No geral, este código HTML cria uma página da web para promover o evento "InDecor," fornecendo informações sobre o evento, benefícios, localização e detalhes, bem como a oportunidade de se inscrever. O design e o estilo da página são controlados por arquivos CSS externos e ícones da biblioteca Bootstrap.
