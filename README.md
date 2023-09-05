@@ -8,10 +8,10 @@ No geral, este código HTML cria uma página da web para promover o evento "InDe
 Página da Web "InDecor"
 Este é um guia de README para a página da web "InDecor". Esta página foi criada para promover um evento chamado "InDecor," focado em decoração de interiores. Abaixo, você encontrará informações sobre a estrutura do código HTML, seus componentes principais e como ele pode ser usado e personalizado.
 
-Estrutura do Código HTML
+*Estrutura do Código HTML
 O código HTML desta página está estruturado em seções distintas, cada uma com um propósito específico. Aqui está uma visão geral das principais seções do código:
 
-Metadados: A seção de metadados inclui informações essenciais sobre o documento, como título, codificação de caracteres e configurações de viewport. Certifique-se de atualizar o título para refletir o nome do seu evento, se necessário.
+*Metadados: A seção de metadados inclui informações essenciais sobre o documento, como título, codificação de caracteres e configurações de viewport. Certifique-se de atualizar o título para refletir o nome do seu evento, se necessário.
 
 Links Externos: Nesta seção, são incluídos links para folhas de estilo CSS externas e a biblioteca Bootstrap para ícones. Se desejar personalizar o estilo da página, você pode modificar as folhas de estilo ou adicionar suas próprias.
 
